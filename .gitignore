@@ -1,0 +1,31 @@
+# Compilados de Java
+*.class
+
+# Directorios generados por Maven
+/target/
+
+# Archivos de log
+*.log
+
+# Configuración del IDE (IntelliJ)
+.idea/
+*.iml
+*.iws
+out/
+
+# Configuración del IDE (Eclipse)
+*.classpath
+*.project
+*.settings/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de sistema
+*.swp
+*.bak
+*.tmp
+
+# Variables de entorno (si usás dotenv o similar)
+.env
