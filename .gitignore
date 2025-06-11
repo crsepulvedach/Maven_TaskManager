@@ -29,3 +29,6 @@ Thumbs.db
 
 # Variables de entorno (si usás dotenv o similar)
 .env
+
+# VSCode
+.vscode
